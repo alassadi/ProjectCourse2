@@ -1,0 +1,42 @@
+introduction:
+dry and academic style not like an advertisement! more formal style.
+
+Requirement list:
+requirement to more reflect functionality than back end requerements
+What you are able to do with the system.
+
+Fix the style and grammar of the report. Formal descriptive sentences.
+
+UML:
+remove extends tag.
+!!!describe use cases not only actors. !!!
+!!! more detail description what each action means!!!
+
+eg. Check hours - what does it do.
+
+consider adding intermediate actors between roles
+switch direction of incude arrows.
+fix manager approve expenses, remove one, make a line from a manager to accountant use case.
+
+split fire and hire employees into two use cases
+add or replace them with create account and delete account
+
+
+
+
+For next week
+
+fix the report
+design part
+database, ER diagram, classes diagrams.
+Gnatt chart.
+
+
+
+
+
+
+
+
+
+
